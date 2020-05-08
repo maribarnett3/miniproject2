@@ -1,0 +1,7 @@
+{
+    "database":"greatbay",
+    "pw":"",
+    "user":"root",
+    "host":"localhost",
+    "port": 3306
+}
